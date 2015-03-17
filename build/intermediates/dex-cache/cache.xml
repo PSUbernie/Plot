@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/robertkatulka/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/robertkatulka/AndroidstudioProjects/Plot/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-24f395086cdd59560ec69ec98e394f402587ac3f.jar" />
+    </item>
+    <item
+        jar="/Users/robertkatulka/AndroidstudioProjects/Plot/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/robertkatulka/AndroidstudioProjects/Plot/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e45f81d9618f63fa869379d13a3cf9af3cfe2486.jar" />
+    </item>
+    <item
+        jar="/Users/robertkatulka/AndroidstudioProjects/Plot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/robertkatulka/AndroidstudioProjects/Plot/app/build/intermediates/pre-dexed/debug/classes-03830be906580ee23093005a11ecc1181990d3d6.jar" />
+    </item>
+    <item
+        jar="/Users/robertkatulka/AndroidstudioProjects/Plot/app/libs/androidplot-core-0.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3db0daea52375b26bfa61c59b8df93950bdefbbc">
+        <dex dex="/Users/robertkatulka/AndroidstudioProjects/Plot/app/build/intermediates/pre-dexed/debug/androidplot-core-0.6.1-ed01f0a74088f1cc88df6c12a58abbe32164048d.jar" />
+    </item>
+    <item
+        jar="/Users/robertkatulka/AndroidstudioProjects/Plot/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/robertkatulka/AndroidstudioProjects/Plot/app/build/intermediates/pre-dexed/debug/classes-9b3ed58023e61622729816fbaf9de142e7774442.jar" />
+    </item>
+
+</items>
